@@ -1,0 +1,1 @@
+Practicos de Programación I de la UNRC (Universidad Nacional de Río Cuarto). En la asignatura se enseña el diseño de algoritmo mediante el uso de Notación Algoritmica y su posterior implementación en c.
