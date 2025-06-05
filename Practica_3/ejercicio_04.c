@@ -1,0 +1,1 @@
+/*No son equivalentes ya que en el caso 4 se actualiza el avlor edad y termina dando como resultado A2*/
