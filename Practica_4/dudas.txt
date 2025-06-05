@@ -1,0 +1,15 @@
+1 - Que significa ”Estoy mareado %- “ %-
+
+2 - Como se representa en el diseño la conccatenacicón de un mensaje mas el resultado de la variable: msge ← "El resultado es: " + num  o   Salída: msge i ???
+
+3 - Ejercicio 3 de la practica 4
+
+4 - Se puede usar el break en una condición?
+
+5 - Ejercicio 6 ontrolar si son correctos los razonamientos sobre todo el e y el k
+
+6 - en el Ejercicio 7 se podría sumar en datos un msge cadena? Este se mostraría antes de la entrada num en el diseño msge ← "Ingrese el numero a calcular"
+
+7 - Cuando usar una funccion o accion sin parametros o sea funcion() o acción()
+
+8 - Preguntar sobre el libro de Pyton porque en la calculadora fin omienza como False para luego en la entrada de la funcción hacerlo True usando NOT(fin)
