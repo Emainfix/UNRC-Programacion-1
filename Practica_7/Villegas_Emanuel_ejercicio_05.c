@@ -2,7 +2,7 @@
 #define Max 200
 typedef struct
 {
-    float a[Max];
+    int a[Max];
     int cant;
 } TData;
 
@@ -33,7 +33,7 @@ void cargarNotas(TData *notas)
     // obtener cada nota
     {
         printf("Ingrese la nota numero %d:\n",i);
-        scanf("%f",&notas->a[i]);
+        scanf("%d",&notas->a[i]);
     }
 }
 
