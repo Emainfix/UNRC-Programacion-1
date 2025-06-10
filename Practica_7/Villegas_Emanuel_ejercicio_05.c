@@ -37,6 +37,7 @@ void cargarNotas(TData *notas)
     }
 }
 
+//Calcula el promedio
 void promedioNotas(TData notas, float *prom)
 {
     float sum;
