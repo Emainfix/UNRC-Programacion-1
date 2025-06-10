@@ -44,7 +44,7 @@ void promedioNotas(TData notas, float *prom)
     int i;
 
     sum = 0;
-
+    //Sumamos nota por nota
     for (i = 1; i <= notas.cant; i = i + 1)
     {
         sum = sum + notas.a[i];
