@@ -16,6 +16,7 @@ int main()
 {
     CargarPalabra(&palara);
     
+    // Informa si es capicua o no
     if (Capicua (palara))
     {
         printf("VERDADERO: Es capicua.");
@@ -24,6 +25,7 @@ int main()
     }
 }
 
+// Carga una palabra y su largo
 void CargarPalabra(TData *p)
 {
     int i;
@@ -45,6 +47,7 @@ void CargarPalabra(TData *p)
     
 }
 
+// Determina si es capicua
 int Capicua (TData p)
 {
     int k,i, control;
