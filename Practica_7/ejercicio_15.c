@@ -19,11 +19,11 @@ suprime el primero cada vez que la acción es ejecutada. El parámetro que debe 
 registro (con el arreglo de nombres y la cantidad de nombres cargados). Después de ejecutada la 
 acción, la cantidad debe quedar decrementada en una unidad.  
 e) Una acción que permita mostrar todos los nombres de la lista. Los parámetros que debe recibir son: 
-el arreglo y la cantidad de nombres que tiene cargados.  */
+el arreglo y la cantidad de nombres que tiene cargados. */
 #include <stdio.h>
 #include <string.h>
 
-#define Max 5
+#define Max 1000
 
 typedef struct
 {
